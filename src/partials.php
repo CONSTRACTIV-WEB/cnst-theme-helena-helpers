@@ -6,6 +6,7 @@ namespace Constractiv\Helena\Theme;
  * View function for partials files
  * @return string
  */
+
 function partials($fileName, $args = array()): string
 {
     $themeDir = \get_template_directory();
