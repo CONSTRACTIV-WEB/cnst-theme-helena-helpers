@@ -1,0 +1,19 @@
+{
+    "name": "constractiv/helena-theme-helpers",
+    "description": "Helper function for helena theme",
+    "type": "library",
+    "authors": [
+        {
+            "name": "CONSTRACTIV",
+            "email": "entwicklung@constractiv.de"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "require": {
+        "squizlabs/php_codesniffer": "*"
+    }
+}
